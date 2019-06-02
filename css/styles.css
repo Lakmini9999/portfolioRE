@@ -1,0 +1,229 @@
+.content {
+  padding-top: 70px;
+}
+ a.active {
+  color: white;
+}
+
+#by{
+  background-color: #03a9f426;
+  animation: move 4s;
+}
+
+@keyframes move {
+  from{background-color: black;}
+  to{background-color: #03a9f426;}
+}
+
+#m1{
+  font-family: cursive;
+  font-size: 50px;
+  color: white;
+  font-weight:bolder ;
+  background-color: #2196f3e8;
+  padding: 2px 9px 2px;
+}
+
+#d1{
+  padding-top: 120px;
+  padding-left: 33px;
+  padding-right: 30px;
+}
+
+#d2{
+  padding-top: 45px ;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 5px;
+}
+
+#p2{
+   font-family: "cursive";
+   font-size: 22px;
+  color: #2196f3e8;
+  font-weight: bolder;
+  text-shadow: 0px 0px 5px #00bcd4;
+}
+
+#d3{
+  padding-top: 10px;
+  padding-left: 30px;
+   padding-right: 30px;
+
+}
+
+#p3{
+  font-family: cursive;
+  font-size: 19px;
+  font-weight: lighter;
+  text-shadow: 0px 0px 5px #7d9396;
+    color: #275c73;
+}
+
+P{
+  margin: 0px 0px 0px;
+}
+#d4{
+  padding-top:0px ;
+  padding-left:30px ;
+  padding-bottom: 40px;
+   padding-right: 30px;
+}
+
+#p4{
+  padding-top: 4px;
+  font-family: cursive;
+  font-size: 18px;
+  margin-bottom: 0px;
+  font-weight: lighter;
+  text-shadow: 0px 0px 5px #7d9396;
+    color: #275c73;
+
+}
+
+.l{
+  font-size: 16px;
+  color: white;
+}
+
+#n{
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+#me{
+  height: 560px;
+  width: 600px;
+}
+/*my services styles*/
+
+#ms1{
+  font-family: cursive;
+  font-size: 35px;
+  color: white;
+  font-weight:bolder ;
+  background-color: #2196f3e8;
+  padding: 0px 2px 2px 0px;
+  text-align: center;
+}
+
+.ms2{
+       font-size: 27px;
+    font-family: "Adobe Devanagari";
+    padding-top: 7px;
+    padding-bottom: 8px;
+    font-weight: bolder;
+}
+
+.ms3{
+  font-size: 19px;
+    font-family: "Adobe Devanagari";
+    padding-right: 5px;
+    padding-left: 5px;
+    font-weight: 600;
+}
+
+#msdiv2{
+      margin-left: -15px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.msdiv3{
+
+  text-align: center;
+  padding-right: 37px;
+  padding-left: 37px;
+  padding-top: 30px;
+  padding-bottom: 25px;
+
+}
+
+#img1{
+      width: 199px;
+    height: 200px;
+}
+
+#img2{
+      width: 220px;
+    height: 194px;
+  margin-bottom: 6px;
+}
+
+#img3{
+      width: 161px;
+    height: 170px;
+  margin-bottom: 29px;
+}
+
+/*styles for contact page*/
+
+#img4{
+width: 42px;
+  height: 33px;
+}
+
+#img5{
+width: 42px;
+  height: 33px;
+}
+
+#img6{
+width: 42px;
+  height: 33px;
+}
+
+.cmp1{
+    font-family: "Adobe Devanagari";
+    font-weight: bolder;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 38px;
+    padding-bottom: 18px;
+}
+
+.cmd1{
+    padding-left: 0px;
+    text-align: center;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.cmd2{
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/*styles for about me page*/
+#am2{
+    margin-left: -20px;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+
+#amimg1 {
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 89%;
+    width: 100%;
+    float: left;
+}
+
+.amimg2{
+  width: 100%;
+  height: 44.5%;
+}
+
+
+.amp{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
